@@ -1,4 +1,4 @@
-run-name: checking workflow reuse - DEMO
+run-name: checking workflow reuse - learn
 
 on:
   push:
