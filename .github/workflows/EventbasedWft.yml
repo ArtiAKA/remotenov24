@@ -1,3 +1,5 @@
+name: Event based workflow execution
+
 run-name: checking workflow reuse - learn
 
 on:
