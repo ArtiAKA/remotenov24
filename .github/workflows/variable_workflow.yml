@@ -5,7 +5,7 @@ run-name:  Testing env & configuration variable
 on: [push]
 
 env:
-  owner_name: Abhi
+  owner_name: Arti
   my_repo_var_value: ${{ vars.MY_REPO_VAR }}
 
 jobs:
